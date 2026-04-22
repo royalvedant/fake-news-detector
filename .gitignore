@@ -1,0 +1,17 @@
+# Datasets
+*.csv
+!news.csv
+!modern_data.csv
+
+# Models
+*.pkl
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
